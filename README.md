@@ -61,9 +61,3 @@ const | = () => {
 
 export default |;
 ```
-
-## Release Notes
-
-### 1.0.0
-
-Initial release! Feel free to open an issue in our repository or submit feedback to [eng@sedimentstudio.com](eng@sedimentstudio.com).
