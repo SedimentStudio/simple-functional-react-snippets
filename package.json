@@ -2,7 +2,7 @@
     "name": "simple-functional-react-snippets",
     "displayName": "Simple Functional React Snippets",
     "description": "React snippets for function components",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "sedimentstudio",
     "icon": "images/react.png",
     "engines": {
