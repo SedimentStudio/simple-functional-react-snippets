@@ -66,4 +66,4 @@ export default |;
 
 ### 1.0.0
 
-Initial release! Feel free to submit feedback to (eng@sedimentstudio.com)[eng@sedimentstudio.com].
+Initial release! Feel free to submit feedback to [eng@sedimentstudio.com](eng@sedimentstudio.com).
